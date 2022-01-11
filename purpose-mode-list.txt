@@ -1,0 +1,16 @@
+twitter.com##div[aria-label*="unread items"]
+twitter.com##svg[aria-label="New Direct Message"]
+twitter.com##div[aria-label="Timeline: Trending now"]
+twitter.com##aside[aria-label="Who to follow"]
+twitter.com##aside[aria-label="Relevant people"]
+! Suggested lists.
+twitter.com##div[aria-label="Timeline: Your Lists"] > div > div:nth-child(4)
+twitter.com##div[aria-label="Timeline: Your Lists"] > div > div:nth-child(5)
+twitter.com##div[aria-label="Timeline: Your Lists"] > div > div:nth-child(6)
+twitter.com##div[aria-label="Timeline: Your Lists"] > div > div:nth-child(7)
+twitter.com##div[aria-label="Timeline: Your Lists"] > div > div:nth-child(8)
+twitter.com##div[aria-label="Timeline: Your Lists"] > div > div:nth-child(9)
+youtube.com##.primary
+youtube.com###chips-wrapper
+linkedin.com##.notification-badge
+linkedin.com##aside.scaffold-layout__aside
